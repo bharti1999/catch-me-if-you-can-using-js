@@ -1,0 +1,19 @@
+#outer-div{
+	height: 130px;
+	width: 130px;
+	position: relative;
+}
+#container{
+	height: 100px;
+	width: 100px;
+	background-color: purple;
+	color:white;
+	text-align: center;
+	position: absolute;
+	top: 10%;
+	left: 10%;
+}
+span{
+	position: relative;
+	top: 40%;
+}
